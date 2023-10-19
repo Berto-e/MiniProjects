@@ -1,5 +1,5 @@
 # MiniProjects
-Repositorio de pequeños proyectos que he ido realizando para aprender javascript, html y css.
+Repositorio de pequeños proyectos que he ido realizando para aprender javascript, html y css y algo de C++.
 
 | #  | Project | Live Demo |
 | ------------- | ------------- | ------------ |
